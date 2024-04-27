@@ -6,7 +6,7 @@ Following are my details:
 
 MY NAME: Chavvakula Keerthi Moulya
 
-MY MAIL ID: eswardora2003@gmail.com
+MY MAIL ID: 20a31a0103@pragati.ac.in
 
 ACADEMIC DETAILS: B.Tech(CE),4th Year (8th Sem)
 
