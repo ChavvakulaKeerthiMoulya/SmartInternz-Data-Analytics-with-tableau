@@ -1,6 +1,24 @@
 # SmartInternz-Data-Analytics-with-tableau
-Website link: 
+INTRODUCTION
+Welcome to the CO2 Emission Analysis Visualization Project! This repository is created for the APSCHE SmartInternz internship program. My aim is to create various visualizations for analyzing CO2 emissions data.
 
-Dashboard link: 
+Following are my details:
 
-Story link: 
+MY NAME: Chavvakula Keerthi Moulya
+
+MY MAIL ID: eswardora2003@gmail.com
+
+ACADEMIC DETAILS: B.Tech(CE),4th Year (8th Sem)
+
+COLLEGE NAME: Pragati Engineering College
+
+ROLL NUMBER: 20A31A0103
+
+IN THIS FILE , WE CAN SEE ALL LINKS FOR THE ENTIRE PROJECT
+
+WEBSITE LINK :
+
+DASHBOARD LINK : https://public.tableau.com/views/Co2EmissionAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+STORY LINK : https://public.tableau.com/views/Co2EmissionAnalysisStory_17141606700950/Co2EmissionStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
