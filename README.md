@@ -1,5 +1,6 @@
 # SmartInternz-Data-Analytics-with-tableau
 INTRODUCTION
+
 Welcome to the CO2 Emission Analysis Visualization Project! This repository is created for the APSCHE SmartInternz internship program. My aim is to create various visualizations for analyzing CO2 emissions data.
 
 Following are my details:
